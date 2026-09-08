@@ -1,7 +1,7 @@
 # customer_behavior_analysis
 data analysis projects showcasing customer behavior analysis using python, sql  and power Bi.
 
-PROJECT OVERVIEW
+PROJECT OVERVIEW--
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
